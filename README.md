@@ -124,7 +124,17 @@ Bangladesh stands at a crossroads in digital governance. By learning from global
 
 ## References
 
-*(Add references here if you include any citations or sources.)*
+1. [A Critical Analysis of Bangladesh's Cyber Security Act 2023](https://jocw.ittc.edu.bd/index.php/jocw/article/view/109) - *Journal of Cybersecurity & Wireless Communications (JOCW), 2024.*
+
+2. [Transparency International Bangladesh: Position Paper on Digital Security Act 2018 and Draft Cyber Security Act 2023](https://www.ti-bangladesh.org/upload/files/position-paper/2023/Position-paper-on-Digital-Security-Act-2018-and-Draft-Cyber-Security-Act-2023.pdf), 2023.
+
+3. [Khan, M. et al. Cyber Security Governance Under the Cyber Laws of Bangladesh: An Overview](https://rsisinternational.org/journals/ijriss/articles/cyber-security-governance-under-the-cyber-laws-of-bangladesh-an-overview/) - *RSIS International Journal of Research in Social Sciences, 2025.*
+
+4. [International Center for Not-for-Profit Law (ICNL): Bangladesh's Cyber Security Act - A Guide for Civil Society, Media and the Public](https://www.icnl.org/wp-content/uploads/Bangladesh-CSA-Handbook-Nov-2024.pdf), October 2024.
+
+5. [Rahman, S. M., & Islam, M. A. A Study Based on the Effectiveness of Cyber Security Act-2023 in Bangladesh](https://www.lawjournals.net/assets/archives/2024/vol6issue4/6131.pdf), 2024.
+
+6. [Government of Bangladesh: Draft Cyber Security Act, 2023](https://legislativediv.portal.gov.bd/sites/default/files/files/legislativediv.portal.gov.bd/page/74e04fe7_3a20_4636_8e6e_e8d52c3f5182/Cyber%20Secrity.pdf) - Legislative Division, Ministry of Law, Justice and Parliamentary Affairs.
 
 ---
 
